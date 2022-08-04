@@ -19,6 +19,29 @@ Neve is distributed under the terms of the GNU GPLv2 or later
 
 == Changelog ==
 
+##### [Version 3.3.5](https://github.com/Codeinwp/neve/compare/v3.3.4...v3.3.5) (2022-08-03)
+
+- [Fix] Indentation for nested replies
+- [Fix] Sticky footer overlapping elements on the shop page
+- [Fix] Replace the deprecated EDD filter
+- [Fix] Comment reply script loading
+- [Fix] Added ARIA label for palette switch link
+- [Fix] Critical error when the header is empty
+- [Fix] Starter content header button issue
+- Update Google Fonts
+
+
+
+
+##### [Version 3.3.4](https://github.com/Codeinwp/neve/compare/v3.3.3...v3.3.4) (2022-07-26)
+
+- [Feat] Add a new control to hide the title on archive pages
+- [Fix] Remove the theme.json file as it adds lots of other issues
+- Update Google Fonts
+
+
+
+
 ##### [Version 3.3.3](https://github.com/Codeinwp/neve/compare/v3.3.2...v3.3.3) (2022-07-20)
 
 - [Feat] Adds theme.json & enable appearanceTools - [Documentation](https://developer.wordpress.org/block-editor/how-to-guides/themes/theme-json/#opt-in-into-ui-controls)
