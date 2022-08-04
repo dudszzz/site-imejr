@@ -62,4 +62,4 @@ get_header();
 		<?php do_action( 'neve_do_sidebar', 'single-page', 'right' ); ?>
 	</div>
 </div>
-<?php get_footer(); ?>
+//<?php get_footer(); ?>
